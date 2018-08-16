@@ -2,6 +2,10 @@ body {
     z-index: 1;
 }
 
+.portfolio a:hover {
+    color: firebrick;
+}
+
 
 
 /* Fonts */
