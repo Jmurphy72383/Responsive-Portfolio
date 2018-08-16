@@ -2,12 +2,6 @@ body {
     z-index: 1;
 }
 
-.portfolio a:hover {
-    color: firebrick;
-}
-
-
-
 /* Fonts */
 h1, h2, h3 {
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -70,6 +64,10 @@ button:hover {
 
 button:active {
     color: black;
+}
+
+a h3:hover {
+    color: firebrick;
 }
 
 
